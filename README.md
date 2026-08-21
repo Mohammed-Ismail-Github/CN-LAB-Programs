@@ -111,13 +111,13 @@ Status: ⏳ Upcoming
 
 ## 10. Wireshark
 
-### i. Packet Capture Using Wireshark
+i. Packet Capture Using Wireshark
 
-### ii. Starting Wireshark
+ii. Starting Wireshark
 
-### iii. Viewing Captured Traffic
+iii. Viewing Captured Traffic
 
-### iv. Analysis, Statistics & Filters
+iv. Analysis, Statistics & Filters
 
 Status: ⏳ Upcoming
 
@@ -125,9 +125,9 @@ Status: ⏳ Upcoming
 
 ## 11. Nmap
 
-### i. How to Run Nmap Scan
+i. How to Run Nmap Scan
 
-### ii. Operating System Detection Using Nmap
+ii. Operating System Detection Using Nmap
 
 Status: ⏳ Upcoming
 
@@ -137,19 +137,19 @@ Status: ⏳ Upcoming
 
 Perform the following experiments using the NS2 Simulator:
 
-### i. NS2 Simulator - Introduction
+i. NS2 Simulator - Introduction
 
-### ii. Simulate to Find the Number of Packets Dropped
+ii. Simulate to Find the Number of Packets Dropped
 
-### iii. Simulate to Find the Number of Packets Dropped by TCP/UDP
+iii. Simulate to Find the Number of Packets Dropped by TCP/UDP
 
-### iv. Simulate to Find the Number of Packets Dropped due to Congestion
+iv. Simulate to Find the Number of Packets Dropped due to Congestion
 
-### v. Simulate to Compare Data Rate & Throughput
+v. Simulate to Compare Data Rate & Throughput
 
-### vi. Simulate to Plot Congestion for Different Source/Destination
+vi. Simulate to Plot Congestion for Different Source/Destination
 
-### vii. Simulate to Determine the Performance with Respect to Transmission of Packets
+vii. Simulate to Determine the Performance with Respect to Transmission of Packets
 
 Status: ⏳ Upcoming
 
